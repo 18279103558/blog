@@ -1,0 +1,6 @@
+/blog/migrations/
+/comments/migrations/
+/whoosh_index/
+/venv/
+/.idea/
+*/.DS_Store
